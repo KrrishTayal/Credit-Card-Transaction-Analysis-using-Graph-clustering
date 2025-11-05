@@ -74,11 +74,13 @@ Instead of analyzing each transaction independently, it models relationships bet
 
 **2.Install dependencies**
 
+'''bash 
 pip install -r requirements.txt
 
 
-Run the Streamlit app
+**Run the Streamlit app**
 
+'''bash
 streamlit run app.py
 
 
